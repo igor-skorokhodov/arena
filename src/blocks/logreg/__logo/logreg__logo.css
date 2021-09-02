@@ -1,0 +1,13 @@
+.logreg__logo {
+  height: 110px;
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .logreg__logo {
+      margin-top: 20px;
+      height: 110px;
+    }
+  }

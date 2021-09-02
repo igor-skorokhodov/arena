@@ -1,0 +1,16 @@
+.error__header {
+  font-size: 140px;
+  line-height: 169px;
+  text-align: center;
+  margin: 0;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .error__header {
+    font-size: 80px;
+    line-height: 97px;
+  }
+}

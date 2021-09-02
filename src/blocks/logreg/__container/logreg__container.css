@@ -1,0 +1,19 @@
+.logreg__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .logreg__container {
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

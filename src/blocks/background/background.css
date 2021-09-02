@@ -1,0 +1,5 @@
+.background {
+    background: black;
+    min-height: 100%;
+    position: relative;
+}

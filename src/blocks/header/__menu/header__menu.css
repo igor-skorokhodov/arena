@@ -1,0 +1,10 @@
+.header__menu {
+    height: 44px;
+    width: 44px;
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    background-image: url('../../../images/header_menu.svg');     
+}

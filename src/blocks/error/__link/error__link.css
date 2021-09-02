@@ -1,0 +1,14 @@
+.error__link {
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #2be080;
+  text-decoration: none;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .error__link {
+    font-size: 12px;
+    line-height: 15px;
+  }
+}

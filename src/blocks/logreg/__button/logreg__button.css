@@ -1,0 +1,23 @@
+.logreg__button {
+  border: none;
+  height: 51px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 500;
+  font-size: 59px;
+  line-height: 61px;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 200px;
+  margin-bottom: 16px;
+  color: black;
+  background-color: inherit;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .logreg__button {
+    font-size: 40px;
+    line-height: 42px;
+    margin-top: 150px;
+  }
+}

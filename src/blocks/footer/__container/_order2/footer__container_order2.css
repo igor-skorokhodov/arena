@@ -1,0 +1,9 @@
+.footer__container_order2 {
+    order: 2;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .footer__container_order2 {
+        order: 1;
+    }
+}

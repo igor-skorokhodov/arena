@@ -1,0 +1,5 @@
+.register__container-acc {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

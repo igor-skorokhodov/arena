@@ -1,0 +1,16 @@
+.header__enter {
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    display: flex;
+    text-align: center;
+    padding-top: 7px;
+}
+
+@media screen and (max-width: 320px) {
+    .header__enter {
+        font-size: 14px;
+        line-height: 17px;
+        color: #FFFFFF;
+    }
+}

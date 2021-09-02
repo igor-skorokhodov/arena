@@ -1,0 +1,12 @@
+.register__background {
+    object-position: right;
+    height: 100%;
+    object-fit: cover;
+    width: 50%;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .register__background {
+        display: none;
+    }
+}

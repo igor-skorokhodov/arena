@@ -1,0 +1,13 @@
+.page {
+    background: url('../../images/BG1.png') no-repeat;
+    background-size: cover;
+    text-rendering: optimizeLegibility;
+    font-family: Triod Postnaja, "Arial", sans-serif;
+    width: 100%;
+    min-height: 100vh;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 0;
+    left: 0;
+}

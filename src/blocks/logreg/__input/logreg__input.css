@@ -1,0 +1,30 @@
+.logreg__input {
+    border: none;
+    width: 100%;
+    height: 33px;
+    border-bottom: 3px solid #852f23;
+    font-size: 24px;
+    line-height: 27px;
+    background: none;
+    margin-bottom: 6px;
+    color: black;
+    outline: none;
+    text-align: center;
+}
+
+::placeholder {
+    color: black;
+    opacity: 0.5;
+    text-align: center;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+    transition: background-color 5000s ease-in-out 0s;
+}
+
+.logreg__input:first-child {
+    margin-top: 40px;
+}

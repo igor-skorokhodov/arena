@@ -1,0 +1,16 @@
+.logreg__link {
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .logreg__link {
+    font-size: 12px;
+    line-height: 15px;
+    display: inline-block;
+  }
+}
